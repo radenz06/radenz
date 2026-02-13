@@ -2,8 +2,8 @@
 # Author: RADEN😈 (radenz06)
 
 # ========== 🎯 LOAD TYPING EFFECT ==========
-if [ -f ~/.typing-effect.sh ]; then
-    source ~/.typing-effect.sh
+if [ -f ~/.typing.sh ]; then
+    source ~/.typing.sh
 fi
 
 # ========== 🎯 FUNGSI CENTER ==========
