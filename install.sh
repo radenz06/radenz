@@ -1,5 +1,5 @@
 #!/bin/bash
-# ========== 🔥 RADENZ INSTALLER ==========
+# ========== 🔥 RADENZ INSTALLER 🔥 ==========
 # Author: RADEN😈 (radenz06)
 
 GREEN='\033[0;32m'
@@ -42,3 +42,4 @@ echo -e "${BLUE}🚀 Jalankan: source ~/.bashrc${NC}"
 echo -e "${BLUE}👑 Author: RADEN😈${NC}"
 echo -e "${BLUE}💀 Status: SINGLE ERA 🗿🖕${NC}"
 echo -e "${GREEN}═══════════════════════════════════════════════${NC}"
+
