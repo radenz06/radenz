@@ -1,4 +1,4 @@
-# 🔥 MAU NGEWE PLISS!!😭😭😭
+# 🔥 SC UBAH TAMPILAN -V RADENZ😈🖕🗿🖥️🔥
 
 **Termux customization with typing effect, center text, and graffity style!**
 
