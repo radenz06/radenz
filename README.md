@@ -16,6 +16,7 @@ chmod +x install.sh
 ./install.sh
 source ~/.bashrc
 ```
-#BUAT INSTALL SOUND NYA!
-
+#🎵BUAT INSTALL SOUND NYA!🎵
+• step 1 :pencet link di bawah ini!
 https://github.com/radenz06/radenz/blob/main/audio.mp3
+• step 2 :kalo udah tekan "view raw/lihat mentah"               (bakalan otomatis kedonload mp3 nya ya nyet 🖕
