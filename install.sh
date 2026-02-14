@@ -45,7 +45,7 @@ termux-setup-storage
 echo ""
 echo -e "${GREEN}═══════════════════════════════════════════════${NC}"
 echo -e "${GREEN}✅ INSTALL MEMEK SUCCESS!${NC}"
-echo -e "${BLUE}🚀 Jalankan: source ~/.bashrc${NC}"
+echo -e "${BLUE}🚀 ketik 'login' untuk melanjutkan${NC}"
 echo -e "${BLUE}👑 Author: RADEN😈${NC}"
 echo -e "${BLUE}💀 Status: SINGLE ERA 🗿🖕${NC}"
 echo -e "${GREEN}═══════════════════════════════════════════════${NC}"
