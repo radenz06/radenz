@@ -20,7 +20,7 @@ pkg install -y git lolcat ncurses-utils mpv neofetch curl
 
 # Copy typing effect
 echo -e "${YELLOW}[2/5]📁 SEDANG MENGINSTALL MEMEK BERJALAN...${NC}"
-cp typing-effect.sh ~/.typing-effect.sh
+cp typing.sh ~/.typing.sh
 chmod +x ~/.typing-effect.sh
 
 # Backup .bashrc
