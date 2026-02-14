@@ -15,3 +15,7 @@ cd radenz
 chmod +x install.sh
 ./install.sh
 source ~/.bashrc
+```
+#BUAT INSTALL SOUND NYA!
+
+https://github.com/radenz06/radenz/blob/main/audio.mp3
