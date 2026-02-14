@@ -5,6 +5,10 @@
 ## ⚡ INSTALLATION
 
 ```bash
+pkg install python -y
+pkg install python-pip -y
+pkg install mpv -y
+pip install lolcat
 pkg install git -y
 git clone https://github.com/radenz06/radenz.git
 cd radenz
