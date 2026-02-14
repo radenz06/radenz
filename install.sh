@@ -16,12 +16,19 @@ echo ""
 # Install packages
 echo -e "${YELLOW}[1/5]📦 SEDANG MENGINSTALL MEMEK...${NC}"
 pkg update -y && pkg upgrade -y
-pkg install -y git lolcat ncurses-utils mpv neofetch curl
+pkg install python-pip -y
+pkg install -y git 
+pkg install ncurses-utils -y 
+pip install lolcat
+pkg install mpv -y
+pkg indtall neofetch -y
+pkg install curl -y
+
 
 # Copy typing effect
 echo -e "${YELLOW}[2/5]📁 SEDANG MENGINSTALL MEMEK BERJALAN...${NC}"
 cp typing.sh ~/.typing.sh
-chmod +x ~/.typing-effect.sh
+chmod +x ~/.typing.sh
 
 # Backup .bashrc
 echo -e "${YELLOW}[3/5]💾 Backing up .bashrc...${NC}"
